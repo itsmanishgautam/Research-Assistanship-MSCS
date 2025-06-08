@@ -1,7 +1,7 @@
 import csv
 import os
 
-# Separate config for file path
+
 FILE_DIR = 'day 1/employee management console'
 FILE_NAME = 'employees.csv'
 filename = os.path.join(FILE_DIR, FILE_NAME)
@@ -14,7 +14,7 @@ def load_employees():
         return list(reader)
 
 def save_employee(emp):
-    os.makedirs(FILE_DIR, exist_ok=True)  # ensure directory exists
+    os.makedirs(FILE_DIR, exist_ok=True)
     file_exists = os.path.isfile(filename)
     with open(filename, mode='a', newline='') as file:
         writer = csv.writer(file)
