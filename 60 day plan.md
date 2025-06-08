@@ -1,4 +1,4 @@
-Full 60-day (2-month) day-by-day Research Assistant (RA) training plan tailored for MS in CS. It systematically covers all key areas from the Universal RA Skill Set you shared—coding, non-coding, systems, AI/ML, security, databases, and soft skills—structured for daily study, practicals, and review.
+Basic Full 60-day (2-month) day-by-day Research Assistant (RA) training plan tailored for MS in CS. It systematically covers all key areas from the Universal RA Skill Set you shared—coding, non-coding, systems, AI/ML, security, databases, and soft skills—structured for daily study, practicals, and review.
 
 ---
 
