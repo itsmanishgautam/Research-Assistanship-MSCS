@@ -1,4 +1,4 @@
-Universal Research Assistant (RA) skills list. This includes a summary table and a professional structure suitable for sharing:
+The Universal Research Assistant (RA) skills list. This includes a summary table and a professional structure suitable for sharing:
 
 ---
 
