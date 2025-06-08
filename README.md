@@ -133,13 +133,3 @@ This ranked skill set is designed for **Research Assistant roles** across all Co
 | Prior Experience & Soft Skills       | Non-coding |
 
 ---
-
-✅ **Tip:** If you're targeting a specific research domain (e.g., NLP, Systems, HCI), I can help **customize this list** or create a focused **study roadmap** based on your background.
-
----
-
-Let me know if you want a \[🛠️ Skill Checklist], \[📅 Study Plan], or \[📂 GitHub Repo Structure] to organize your learning.
-
----
-
-Let me know if you want the same version rendered in HTML for a personal portfolio page or as a downloadable `.md` file.
