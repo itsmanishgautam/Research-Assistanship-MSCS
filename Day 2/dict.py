@@ -33,3 +33,7 @@ print(student["Time"])
 student["Teacher"]= "Rama"
 
 print(student)
+
+
+del student["name"]
+print(student)
