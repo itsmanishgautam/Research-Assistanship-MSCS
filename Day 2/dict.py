@@ -20,3 +20,16 @@ store_data("age", 25)
 get_data("name")
 get_data("city")
 show_memory()
+
+student ={
+    "name":"manish",
+    "class":"math",
+    "Time":"10:00 am"
+}
+
+print(student["Time"])
+
+
+student["Teacher"]= "Rama"
+
+print(student)
