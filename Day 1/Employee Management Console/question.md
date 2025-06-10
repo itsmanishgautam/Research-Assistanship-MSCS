@@ -48,10 +48,3 @@ Your task is to:
    * **Option 5:** Exit the program.
 
 ---
-
-### 🛑 Restrictions
-
-* Do **not** use functions (`def`) or any libraries.
-* Use only: variables, lists, dictionaries, loops, conditionals, and user input.
-
----
